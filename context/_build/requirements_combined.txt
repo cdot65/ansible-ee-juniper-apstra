@@ -1,5 +1,0 @@
-pyvmomi  # from collection community.vmware,user
-git+https://github.com/vmware/vsphere-automation-sdk-python.git ; python_version >= '2.7'  # Python 2.6 is not supported  # from collection community.vmware
-jxmlease  # from collection user
-jsnapy  # from collection user
-junos-eznc  # from collection user

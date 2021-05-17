@@ -1,4 +1,0 @@
-pyvmomi
-jxmlease
-jsnapy
-junos-eznc
