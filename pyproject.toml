@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ansible-ee-azure"
+version = "0.1.0"
+description = "Ansible AWX EE builder for Docker"
+authors = ["Calvin Remsburg <cremsburg.dev@gmail.com>"]
+license = "Apache 2.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+ansible-builder = "^1.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
